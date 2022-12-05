@@ -1,1 +1,1 @@
-<img align="center" src='https://media.tenor.com/mKCjgQVLPZcAAAAC/kurumi-crazy.gif'>
+<img src='https://media.tenor.com/ciJhKlUqqcQAAAAC/goose-dancing.gif'>
