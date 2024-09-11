@@ -26,7 +26,7 @@
       - [dwmblocks](https://github.com/chkg2a/dwmblocks)
 - My dotinstall : [chkg2a/dot-install](https://github.com/chkg2a/dot-install)
 
-<div style="display: flex; justify-content: center">
+<div align="center">
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/chkg2a?theme=dark&font=source_code_pro&extension=null)
 <a style="margin: 0 20px" href="https://data.typeracer.com/pit/profile?user=chkg2a&ref=badge" target="_top"><img style="height: 200px" src="https://data.typeracer.com/misc/badge?user=chkg2a" border="0" alt="TypeRacer.com scorecard for user chkg2a"/></a>
