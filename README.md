@@ -1,6 +1,6 @@
 # Hello~ 
 
-> I am ChK, a Computer Science student, a programmer, an Arch User and Vim Enjoyer.
+> I go by ChK, a Computer Science student, a programmer, an Arch User and Vim Enjoyer.
 
 <picture decoding="async" loading="lazy">
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=chkg2a&theme=journey&pixelate_avatar=false">
