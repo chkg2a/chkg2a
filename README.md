@@ -4,6 +4,7 @@
 
 <picture decoding="async" loading="lazy">
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=chkg2a&theme=journey&pixelate_avatar=false">
+
 </picture>
 
 <p align="center">
